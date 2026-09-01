@@ -1,0 +1,12 @@
+Script started on 2026-07-21 04:08:10+00:00 [TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="156" LINES="41"]
+\?2004h0;sahith@sahith: /mnt/c/Users/sahit/OneDrive/Desktop/os 01;32msahith@sahith00m:01;34m/mnt/c/Users/sahit/OneDrive/Desktop/os00m$ Kmkdir w1 w2 wK3
+?2004l
+?2004h0;sahith@sahith: /mnt/c/Users/sahit/OneDrive/Desktop/os 01;32msahith@sahith00m:01;34m/mnt/c/Users/sahit/OneDrive/Desktop/os00m$ touch file1
+?2004l
+?2004h0;sahith@sahith: /mnt/c/Users/sahit/OneDrive/Desktop/os 01;32msahith@sahith00m:01;34m/mnt/c/Users/sahit/OneDrive/Desktop/os00m$ cd w1
+?2004l
+?2004h0;sahith@sahith: /mnt/c/Users/sahit/OneDrive/Desktop/os/w1 01;32msahith@sahith00m:01;34m/mnt/c/Users/sahit/OneDrive/Desktop/os/w100m$ touch fileK1.txt f2.txt f3.txt
+?2004l
+?2004h0;sahith@sahith: /mnt/c/Users/sahit/OneDrive/Desktop/os/w1 01;32msahith@sahith00m:01;34m/mnt/c/Users/sahit/OneDrive/Desktop/os/w100m$ eKcho "Hello"1PWorld"
+?2004l
+Hello World
