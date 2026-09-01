@@ -1,0 +1,7 @@
+Linux Device Driver Demo
+
+This file is opened in Read and Write mode.
+It is used to demonstrate the ioctl() system call.
+
+Value:
+0
